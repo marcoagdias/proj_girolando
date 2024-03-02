@@ -1,2 +1,2 @@
-# proj_girolando
-Projeto criado usando Laravel PHP e banco de dados SQL Server.
+# Projeto CRUD - desafio girolando.
+Projeto criado CRUD, usando Linguagem PHP, Framework Laravel e Banco de Dados SQL Server.
